@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086c69bb-453f-4717-85e9-1a33a3f1746f" name="Changes" comment="" />
+    <list default="true" id="086c69bb-453f-4717-85e9-1a33a3f1746f" name="Changes" comment="update tamrin_3.html file">
+      <change afterPath="$PROJECT_DIR$/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tamrin_4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +18,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27qaEAeRekITZxlHAylhcPcGoJ6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,8 +42,8 @@
       <recent name="C:\Users\Administrator\Desktop\From git\HW16" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\From git\HW16\.idea" />
       <recent name="C:\Users\Administrator\Desktop\From git\HW16" />
+      <recent name="C:\Users\Administrator\Desktop\From git\HW16\.idea" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -46,8 +54,68 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650049960060</updated>
-      <workItem from="1650049963483" duration="2139000" />
+      <workItem from="1650049963483" duration="5506000" />
+      <workItem from="1650088086790" duration="9221000" />
+      <workItem from="1650099934224" duration="6320000" />
+      <workItem from="1650130323454" duration="3084000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="add .idea folder">
+      <created>1650052415335</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1650052415335</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۲" summary="insert image file and create file tamrin_1.html.">
+      <created>1650052554474</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۲" />
+      <updated>1650052554474</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۳" summary="create tamrin_2.html file">
+      <created>1650053793978</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۳" />
+      <updated>1650053793978</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۴" summary="create tamrin_1.html file">
+      <created>1650053915950</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۴" />
+      <updated>1650053915950</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۵" summary="create tamrin_3.html file">
+      <created>1650055868089</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۵" />
+      <updated>1650055868089</updated>
+    </task>
+    <task id="LOCAL‎۰۰۰۰۶" summary="update tamrin_3.html file">
+      <created>1650093371700</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۶" />
+      <updated>1650093371700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add .idea folder" />
+    <MESSAGE value="insert image file and create file tamrin_1.html." />
+    <MESSAGE value="create tamrin_2.html file" />
+    <MESSAGE value="create tamrin_1.html file" />
+    <MESSAGE value="create tamrin_3.html file" />
+    <MESSAGE value="update tamrin_3.html file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update tamrin_3.html file" />
   </component>
 </project>
