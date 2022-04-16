@@ -5,17 +5,38 @@
     <title>tamrin_3</title>
 </head>
 <body>
-<style>
 
-</style>
-<form>
- <label for="name">Name: </label>
-    <input type="text" id="name"><br><br>
-    <label for="email">E_mail : </label>
-    <input type="text" id="email"><br><br>
-    <label for="message">Message : </label>
-    <input type="text" id="message" height=40px><br><br>
-    <input type="submit" value="Send your message " >
+<form action="" method="get"  >
+    <table >
+        <tr >
+            <th>
+            <td align="right"><label for="name">Name:</label></td>
+            <td align="right"><input id="name" type="text" name="name" style="width: 350px" ></td>
+            </th>
+        </tr>
+        <tr>
+            <th>
+            <td align="right"><label for="email">Email:</label></td>
+            <td align="right"><input type="text" id="email" name="email" style="width: 350px"></td>
+            </th>
+        </tr>
+        <tr>
+            <th>
+            <td align="right" ><label  for="message">Message:</label></td>
+            <td align="right"><textarea id="message" name="message" rows="4" cols="21" style="width: 350px"></textarea></td>
+
+            </th>
+
+        </tr>
+
+        <tr>
+
+            <th>
+                <td></td>
+            <td align="left"><input type="submit" id="send" value="Send your message"></td>
+            </th>
+        </tr>
+    </table>
 </form>
 </body>
 </html>
