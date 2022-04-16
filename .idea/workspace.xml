@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="086c69bb-453f-4717-85e9-1a33a3f1746f" name="Changes" comment="update tamrin_3.html file">
-      <change afterPath="$PROJECT_DIR$/p4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tamrin_4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="086c69bb-453f-4717-85e9-1a33a3f1746f" name="Changes" comment="create  tamrin_3.html.">
+      <change afterPath="$PROJECT_DIR$/tamrin_5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <workItem from="1650049963483" duration="5506000" />
       <workItem from="1650088086790" duration="9221000" />
       <workItem from="1650099934224" duration="6320000" />
-      <workItem from="1650130323454" duration="3084000" />
+      <workItem from="1650130323454" duration="3655000" />
     </task>
     <task id="LOCAL‎۰۰۰۰۱" summary="add .idea folder">
       <created>1650052415335</created>
@@ -95,7 +93,13 @@
       <option name="presentableId" value="LOCAL‎۰۰۰۰۶" />
       <updated>1650093371700</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎۰۰۰۰۷" summary="create  tamrin_3.html.">
+      <created>1650135314569</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۷" />
+      <updated>1650135314569</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +120,7 @@
     <MESSAGE value="create tamrin_1.html file" />
     <MESSAGE value="create tamrin_3.html file" />
     <MESSAGE value="update tamrin_3.html file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update tamrin_3.html file" />
+    <MESSAGE value="create  tamrin_3.html." />
+    <option name="LAST_COMMIT_MESSAGE" value="create  tamrin_3.html." />
   </component>
 </project>
